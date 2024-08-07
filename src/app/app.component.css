@@ -13,7 +13,7 @@
         }
         
         .lg-text-input {
-          width: 100%;
+          width: 95%;
           padding: 10px;
           font-size: 18px;
           border: 1px solid #ccc;
@@ -32,16 +32,17 @@
           background-color: #3e8e41;
         }
         
-        .btn-danger {
+        .btn-delete {
           background-color: #ff3737;
           color: #fff;
           padding: 10px 20px;
           border: none;
           border-radius: 5px;
           cursor: pointer;
+          
         }
         
-        .btn-danger:hover {
+        .btn-delete:hover {
           background-color: #ff2323;
         }
         
@@ -53,6 +54,7 @@
         
         li {
           padding: 10px;
+          justify-content: space-between;
           border-bottom: 1px solid #ccc;
         }
         

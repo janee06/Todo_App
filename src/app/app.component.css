@@ -2,8 +2,8 @@
           max-width: 500px;
           margin: 40px auto;
           padding: 20px;
-          background-color: #f9f9f9;
-          border: 1px solid #ccc;
+          background-color: #1e024a;
+          border: 1px solid #3d4586;
           box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
         
@@ -19,31 +19,23 @@
           border: 1px solid #ccc;
         }
         
-        .btn-primary {
-          background-color: #4CAF50;
-          color: #fff;
-          padding: 10px 20px;
-          border: none;
-          border-radius: 5px;
-          cursor: pointer;
-        }
         
         .btn-primary:hover {
           background-color: #3e8e41;
         }
         
         .btn-delete {
-          background-color: #ff3737;
-          color: #fff;
-          padding: 10px 20px;
+          background-color:#a0a8f5;
+          color: #000000;
+          padding: 5px 20px;
           border: none;
           border-radius: 5px;
           cursor: pointer;
-          
+          float: right;
         }
         
         .btn-delete:hover {
-          background-color: #ff2323;
+          background-color:#7d89f3;
         }
         
         ul {
